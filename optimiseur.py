@@ -1,4 +1,4 @@
-"""TP - Optimiseur de prompts (un seul fichier, Python standard). Lancer : python optimiseur.py
+""" - Optimiseur de prompts (un seul fichier, Python standard). Lancer : python optimiseur.py
 
 Boucle : mesurer le prompt sur l'ENTRAÎNEMENT -> lire ses erreurs -> demander une variante ->
 ne la garder que si son score sur la VALIDATION progresse d'au moins MIN_GAIN.
